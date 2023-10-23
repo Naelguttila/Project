@@ -1,3 +1,4 @@
+L’application se base sur l’utilisation de MongoDB (atlas), Express, React et Node.
 Pour lancer l’application, vous pouvez suivre ces instructions :
 Clonez le dépôt GitHub sur votre machine locale.
 git clone https://github.com/Naelguttila/Project
